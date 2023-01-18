@@ -1,0 +1,19 @@
+@font-face {
+    font-family: urdu1;
+    src: url(./Fonts/NotoNastaliqUrdu-Regular.ttf);
+}
+/* @font-face {
+    font-family: urdu1;
+    src: url(./Fonts/Al_Mushaf.ttf);
+} */
+body{
+    font-size: 150%;
+}
+.urd{
+    font-family: urdu1;
+}
+.ud{
+    font-family: urdu1;
+    /* font-size: 2em; */
+    /* font-weight: 100; */
+}
